@@ -1,19 +1,30 @@
 
+org.xtext.example.mydsl/.*
 org.xtext.example.mydsl/target/
 org.xtext.example.mydsl/src-gen/
 org.xtext.example.mydsl/xtend-gen/
 
+org.xtext.example.mydsl.tests/.*
 org.xtext.example.mydsl.tests/target/
 org.xtext.example.mydsl.tests/src-gen/
 org.xtext.example.mydsl.tests/xtend-gen/
 
-
+org.xtext.example.mydsl.ide/.*
 org.xtext.example.mydsl.ide/target/
 org.xtext.example.mydsl.ide/src-gen/
 org.xtext.example.mydsl.ide/xtend-gen/
 
-
+org.xtext.example.mydsl.ui/.*
 org.xtext.example.mydsl.ui/target/
 org.xtext.example.mydsl.ui/src-gen/
 org.xtext.example.mydsl.ui/xtend-gen/
 
+org.xtext.example.mydsl.ui.tests/.*
+org.xtext.example.mydsl.ui.tests/target/
+org.xtext.example.mydsl.ui.tests/src-gen/
+org.xtext.example.mydsl.ui.tests/xtend-gen/
+
+org.xtext.example.mydsl.feature/.settings/*
+org.xtext.example.mydsl.target/.settings/*
+org.xtext.example.mydsl.repository/.settings/*
+.settings/*
